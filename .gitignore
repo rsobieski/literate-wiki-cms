@@ -1,3 +1,7 @@
+#project files:
+*.sqlite3
+
+
 # VS
 .vscode/*
 !.vscode/settings.json
